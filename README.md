@@ -1,7 +1,7 @@
 # Practiice
 Data
 
-# Adidas Sales Analysis (2020–2021)
+Adidas Sales Analysis (2020–2021)
 
 ## Project Overview
 This project focuses on analysing Adidas sales data from 2020 to 2021 using Microsoft Excel.
