@@ -5,7 +5,6 @@ Data
 
 <img width="1119" height="1280" alt="WhatsApp Image 2026-10-13 at 13 31 20" src="https://github.com/user-attachments/assets/da96d488-1ade-4f17-baef-e643d7ecdcf3" />
 
-
 ## Project Overview
 This project focuses on analysing Adidas sales data from 2020 to 2021 using Microsoft Excel.
 
