@@ -3,7 +3,7 @@ Data
 
 # Adidas Sales Analysis (2020–2021)
 
-# Project Overview
+## Project Overview
 This project focuses on analysing Adidas sales data from 2020 to 2021 using Microsoft Excel.
 
 The goal is to explore sales performance, identify business trends, evaluate product and retailer performance, and generate actionable insights that can support better business decisions.
